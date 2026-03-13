@@ -1,0 +1,26 @@
+{
+  "Environments": [
+    "Lush_Canyon"
+  ],
+  "MinDistanceFromPlayer": 0.001,
+  "MaxSpawnedNPCs": 8,
+  "ConcurrentSpawnsRange": [
+    1,
+    8
+  ],
+  "SpawnAfterGameTimeRange": [
+    "PT1M",
+    "PT3M"
+  ],
+  "NPCIdleDespawnTime": 15,
+  "BeaconVacantDespawnGameTime": "PT15M",
+  "BeaconRadius": 70,
+  "SpawnRadius": 50,
+  "TargetDistanceFromPlayer": 5,
+  "NPCs": [
+    {
+      "Weight": 100,
+      "Id": "Gecko"
+    }
+  ]
+}

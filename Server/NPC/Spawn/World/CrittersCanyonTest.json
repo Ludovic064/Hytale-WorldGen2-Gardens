@@ -1,0 +1,22 @@
+{
+  "NPCs": [
+    {
+      "Id": "Crocodile",
+      "Weight": 10
+    }
+  ],
+  "Environments": [
+    "Lush_Canyon"
+  ],
+  "Despawn": {
+    "DayTimeRange": [
+      20,
+      5
+    ]
+  },
+  "DayTimeRange": [
+    6,
+    18
+  ],
+  "ScaleDayTimeRange": true
+}

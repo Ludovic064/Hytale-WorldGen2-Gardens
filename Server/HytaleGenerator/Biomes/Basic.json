@@ -5613,12 +5613,12 @@
 	"EnvironmentProvider":	{
 		"$NodeId":	"Constant.EnvironmentProvider-48688063-dfb4-4795-bccd-1faa340c47b3",
 		"Type":	"Constant",
-		"Environment":	"Env_Zone1_Plains"
+		"Environment":	"Lush_Canyon"
 	},
 	"TintProvider":	{
 		"$NodeId":	"Constant.TintProvider-0b665e41-954b-4a04-b3e4-c29ac6f4422b",
 		"Type":	"Constant",
-		"Color":	"#5b9e28"
+		"Color":	"#39911e"
 	},
 	"$NodeEditorMetadata":	{
 		"$Nodes":	{
