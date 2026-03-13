@@ -1,0 +1,7 @@
+{
+  "IncludeBlockTypes": [
+    "Soil_Gravel*",
+    "Soil_Mud*"
+  ],
+  "IncludeAll": false
+}

@@ -2,25 +2,35 @@
   "Environments": [
     "Lush_Canyon"
   ],
-  "MinDistanceFromPlayer": 0.001,
+  "MinDistanceFromPlayer": 15,
   "MaxSpawnedNPCs": 8,
   "ConcurrentSpawnsRange": [
     1,
-    8
+    3
   ],
   "SpawnAfterGameTimeRange": [
-    "PT1M",
-    "PT3M"
+    "PT10M",
+    "PT15M"
   ],
   "NPCIdleDespawnTime": 15,
-  "BeaconVacantDespawnGameTime": "PT15M",
+  "BeaconVacantDespawnGameTime": "PT10M",
   "BeaconRadius": 70,
   "SpawnRadius": 50,
-  "TargetDistanceFromPlayer": 5,
+  "TargetDistanceFromPlayer": 20,
   "NPCs": [
     {
-      "Weight": 100,
-      "Id": "Gecko"
+      "Weight": 40,
+      "Id": "Gecko",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Squirrel",
+      "Weight": 40,
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Snake_Marsh",
+      "Weight": 20
     }
   ]
 }

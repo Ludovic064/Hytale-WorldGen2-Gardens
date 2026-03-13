@@ -1,0 +1,48 @@
+{
+  "Environments": [
+    "Lush_Canyon"
+  ],
+  "MinDistanceFromPlayer": 30,
+  "MaxSpawnedNPCs": 5,
+  "ConcurrentSpawnsRange": [
+    2,
+    5
+  ],
+  "SpawnAfterGameTimeRange": [
+    "PT25M",
+    "PT45M"
+  ],
+  "NPCIdleDespawnTime": 15,
+  "BeaconVacantDespawnGameTime": "PT15M",
+  "BeaconRadius": 70,
+  "SpawnRadius": 50,
+  "TargetDistanceFromPlayer": 50,
+  "NPCs": [
+    {
+      "Weight": 25,
+      "Id": "Spirit_Root",
+      "Flock": "Group_Small",
+      "SpawnBlockSet": "Tree"
+    },
+    {
+      "Id": "Fen_Stalker",
+      "Weight": 90,
+      "Flock": "Group_Small",
+      "SpawnBlockSet": "Swamp"
+    },
+    {
+      "Id": "Snapdragon",
+      "Weight": 55,
+      "SpawnBlockSet": "Swamp"
+    },
+    {
+      "Id": "Spider",
+      "Weight": 35
+    }
+  ],
+  "DayTimeRange": [
+    19,
+    6
+  ],
+  "ScaleDayTimeRange": true
+}
