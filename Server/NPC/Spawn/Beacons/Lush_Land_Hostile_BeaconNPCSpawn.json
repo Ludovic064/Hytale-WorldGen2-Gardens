@@ -3,10 +3,10 @@
     "Lush_Canyon"
   ],
   "MinDistanceFromPlayer": 30,
-  "MaxSpawnedNPCs": 5,
+  "MaxSpawnedNPCs": 14,
   "ConcurrentSpawnsRange": [
-    2,
-    5
+    3,
+    14
   ],
   "SpawnAfterGameTimeRange": [
     "PT25M",

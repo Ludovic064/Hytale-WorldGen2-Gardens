@@ -6638,6 +6638,96 @@
 					"$y":	-4194
 				}
 			},
+			"SimpleHorizontalMaterialProvider-361961b9-f779-405b-9ebc-b99e4da3ca4b":	{
+				"$Position":	{
+					"$x":	-4469,
+					"$y":	-4905
+				}
+			},
+			"SpaceAndDepthMaterialProvider-7180c4ee-5cde-4f59-96c4-be537005e761":	{
+				"$Position":	{
+					"$x":	-4478,
+					"$y":	-4652
+				}
+			},
+			"NoiseThicknessLayerSADMP-3fdc72b0-de6d-43a1-9fa4-b534f8adbee5":	{
+				"$Position":	{
+					"$x":	-4486,
+					"$y":	-4472
+				}
+			},
+			"WeightedMaterialProvider-a06f86e8-84ee-4859-97a7-f28f9d3ad598":	{
+				"$Position":	{
+					"$x":	-4066,
+					"$y":	-4471
+				}
+			},
+			"WeightedMaterial-0df826f5-cf39-446f-8c62-35c308f5571e":	{
+				"$Position":	{
+					"$x":	-3327,
+					"$y":	-4496
+				}
+			},
+			"ConstantMaterialProvider-5a71cf86-d6a7-4c42-985b-84d5ec9a16f4":	{
+				"$Position":	{
+					"$x":	-2852,
+					"$y":	-4500
+				}
+			},
+			"Material-6354fccb-94b7-4759-8ee5-ec28b93ac180":	{
+				"$Position":	{
+					"$x":	-2162,
+					"$y":	-4569
+				}
+			},
+			"WeightedMaterial-ed940004-448e-4fe4-85e8-9b398c9d49fe":	{
+				"$Position":	{
+					"$x":	-3325,
+					"$y":	-4399
+				}
+			},
+			"ConstantMaterialProvider-9d6ec3fd-64a5-4ec7-86a4-9e31178f23a5":	{
+				"$Position":	{
+					"$x":	-2849,
+					"$y":	-4405
+				}
+			},
+			"Material-59f287df-191e-442e-bb7c-f3e74f3d5da2":	{
+				"$Position":	{
+					"$x":	-2156,
+					"$y":	-4430
+				}
+			},
+			"PositionsCellNoiseDensityNode-1016ccec-8c2a-41a1-a51e-79d177884502":	{
+				"$Position":	{
+					"$x":	-3984,
+					"$y":	-4249
+				}
+			},
+			"Mesh3DPositions-e93bc67d-c6cc-4792-b08a-8a963016d06d":	{
+				"$Position":	{
+					"$x":	-2911,
+					"$y":	-4279
+				}
+			},
+			"MeshPointGenerator-a148aa11-6564-4b19-b8a8-39fd6bcd329e":	{
+				"$Position":	{
+					"$x":	-2233,
+					"$y":	-4278
+				}
+			},
+			"Distance2SubPCNReturnType-da81623b-51ee-401b-82df-6f8710a0e0fe":	{
+				"$Position":	{
+					"$x":	-2558,
+					"$y":	-4110
+				}
+			},
+			"PCNDistanceFunction-3c55f1fb-9041-4645-915c-142fe91a502b":	{
+				"$Position":	{
+					"$x":	-2950,
+					"$y":	-4137
+				}
+			},
 			"SimpleHorizontalMaterialProvider-745a5206-7094-4594-b9f7-7e6a10ac6f08":	{
 				"$Position":	{
 					"$x":	-4779,
@@ -7388,6 +7478,12 @@
 					"$y":	3909
 				}
 			},
+			"Material-4599e762-e933-4298-8ef5-5c933e323b89":	{
+				"$Position":	{
+					"$x":	-2319,
+					"$y":	4073
+				}
+			},
 			"ColumnLinear.Scanner-b37adccc-71c3-4f42-a8ec-052245254d1f":	{
 				"$Position":	{
 					"$x":	-3821,
@@ -7428,6 +7524,12 @@
 				"$Position":	{
 					"$x":	-4876,
 					"$y":	4029
+				}
+			},
+			"Delimiter.FieldFunction.Assignments-b68a3cc3-3be5-40c3-b196-2c17eecb1596":	{
+				"$Position":	{
+					"$x":	-6254,
+					"$y":	3537
 				}
 			},
 			"Constant.Assignments-57242d70-5894-4a7c-aa41-026715e04c4f":	{
@@ -12104,18 +12206,6 @@
 					"$y":	58390
 				}
 			},
-			"Constant.EnvironmentProvider-48688063-dfb4-4795-bccd-1faa340c47b3":	{
-				"$Position":	{
-					"$x":	-10179,
-					"$y":	-2654
-				}
-			},
-			"Constant.TintProvider-0b665e41-954b-4a04-b3e4-c29ac6f4422b":	{
-				"$Position":	{
-					"$x":	-10172,
-					"$y":	-2442
-				}
-			},
 			"Rule.BlockMask-1507677d-8992-48b7-8edd-cd190eb44082":	{
 				"$Position":	{
 					"$x":	-5607,
@@ -12162,6 +12252,18 @@
 				"$Position":	{
 					"$x":	-4540,
 					"$y":	58726
+				}
+			},
+			"Constant.EnvironmentProvider-48688063-dfb4-4795-bccd-1faa340c47b3":	{
+				"$Position":	{
+					"$x":	-10179,
+					"$y":	-2654
+				}
+			},
+			"Constant.TintProvider-0b665e41-954b-4a04-b3e4-c29ac6f4422b":	{
+				"$Position":	{
+					"$x":	-10172,
+					"$y":	-2442
 				}
 			},
 			"NormalizerDensityNode-77021622-1595-4f86-a31b-e8b9a4bb06f0":	{
@@ -12342,108 +12444,6 @@
 				"$Position":	{
 					"$x":	1386,
 					"$y":	-486
-				}
-			},
-			"SimpleHorizontalMaterialProvider-361961b9-f779-405b-9ebc-b99e4da3ca4b":	{
-				"$Position":	{
-					"$x":	-4469,
-					"$y":	-4905
-				}
-			},
-			"PositionsCellNoiseDensityNode-1016ccec-8c2a-41a1-a51e-79d177884502":	{
-				"$Position":	{
-					"$x":	-3984,
-					"$y":	-4249
-				}
-			},
-			"Mesh3DPositions-e93bc67d-c6cc-4792-b08a-8a963016d06d":	{
-				"$Position":	{
-					"$x":	-2911,
-					"$y":	-4279
-				}
-			},
-			"MeshPointGenerator-a148aa11-6564-4b19-b8a8-39fd6bcd329e":	{
-				"$Position":	{
-					"$x":	-2233,
-					"$y":	-4278
-				}
-			},
-			"PCNDistanceFunction-3c55f1fb-9041-4645-915c-142fe91a502b":	{
-				"$Position":	{
-					"$x":	-2950,
-					"$y":	-4137
-				}
-			},
-			"WeightedMaterialProvider-a06f86e8-84ee-4859-97a7-f28f9d3ad598":	{
-				"$Position":	{
-					"$x":	-4066,
-					"$y":	-4471
-				}
-			},
-			"WeightedMaterial-0df826f5-cf39-446f-8c62-35c308f5571e":	{
-				"$Position":	{
-					"$x":	-3327,
-					"$y":	-4496
-				}
-			},
-			"ConstantMaterialProvider-5a71cf86-d6a7-4c42-985b-84d5ec9a16f4":	{
-				"$Position":	{
-					"$x":	-2852,
-					"$y":	-4500
-				}
-			},
-			"Material-6354fccb-94b7-4759-8ee5-ec28b93ac180":	{
-				"$Position":	{
-					"$x":	-2162,
-					"$y":	-4569
-				}
-			},
-			"WeightedMaterial-ed940004-448e-4fe4-85e8-9b398c9d49fe":	{
-				"$Position":	{
-					"$x":	-3325,
-					"$y":	-4399
-				}
-			},
-			"ConstantMaterialProvider-9d6ec3fd-64a5-4ec7-86a4-9e31178f23a5":	{
-				"$Position":	{
-					"$x":	-2849,
-					"$y":	-4405
-				}
-			},
-			"Material-59f287df-191e-442e-bb7c-f3e74f3d5da2":	{
-				"$Position":	{
-					"$x":	-2156,
-					"$y":	-4430
-				}
-			},
-			"SpaceAndDepthMaterialProvider-7180c4ee-5cde-4f59-96c4-be537005e761":	{
-				"$Position":	{
-					"$x":	-4478,
-					"$y":	-4652
-				}
-			},
-			"NoiseThicknessLayerSADMP-3fdc72b0-de6d-43a1-9fa4-b534f8adbee5":	{
-				"$Position":	{
-					"$x":	-4486,
-					"$y":	-4472
-				}
-			},
-			"Distance2SubPCNReturnType-da81623b-51ee-401b-82df-6f8710a0e0fe":	{
-				"$Position":	{
-					"$x":	-2558,
-					"$y":	-4110
-				}
-			},
-			"Material-4599e762-e933-4298-8ef5-5c933e323b89":	{
-				"$Position":	{
-					"$x":	-2319,
-					"$y":	4073
-				}
-			},
-			"Delimiter.FieldFunction.Assignments-b68a3cc3-3be5-40c3-b196-2c17eecb1596":	{
-				"$Position":	{
-					"$x":	-6254,
-					"$y":	3537
 				}
 			}
 		},

@@ -2,7 +2,7 @@
   "NPCs": [
     {
       "Id": "Tetrabird",
-      "Weight": 150,
+      "Weight": 250,
       "SpawnBlockSet": "Grass"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "Id": "Hawk",
-      "Weight": 25,
+      "Weight": 50,
       "SpawnBlockSet": "Birds"
     },
     {
