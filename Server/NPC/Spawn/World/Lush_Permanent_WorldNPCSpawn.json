@@ -61,8 +61,8 @@
       "SpawnBlockSet": "Swamp"
     }
   ],
+  "ScaleDayTimeRange": false,
   "Environments": [
     "Lush_Canyon"
-  ],
-  "ScaleDayTimeRange": false
+  ]
 }

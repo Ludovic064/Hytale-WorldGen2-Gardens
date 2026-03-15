@@ -2,12 +2,12 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "Basic",
+      "Biome": "Lush_Canyon",
       "Min": -1,
       "Max": 1
     }
   ],
-  "DefaultBiome": "Basic",
+  "DefaultBiome": "Lush_Canyon",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {
