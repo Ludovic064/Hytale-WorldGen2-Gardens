@@ -30,5 +30,15 @@
       "Name": "Bedrock",
       "Y": 0
     }
-  ]
+  ],
+  "SpawnPositions": {
+    "Type": "List",
+    "Positions": [
+      {
+        "Y": 185,
+        "X": 0,
+        "Z": 0
+      }
+    ]
+  }
 }
