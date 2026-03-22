@@ -7,113 +7,6 @@
   },
   "Clouds": [
     {
-      "Texture": "Sky/Clouds/Void_Base.png",
-      "Colors": [
-        {
-          "Hour": 0,
-          "Color": "#4c526027"
-        }
-      ],
-      "Speeds": [
-        {
-          "Hour": 0,
-          "Value": 5
-        },
-        {
-          "Hour": 1,
-          "Value": -5
-        },
-        {
-          "Hour": 2,
-          "Value": 5
-        },
-        {
-          "Hour": 3,
-          "Value": -5
-        },
-        {
-          "Hour": 4,
-          "Value": 5
-        },
-        {
-          "Hour": 5,
-          "Value": -5
-        },
-        {
-          "Hour": 6,
-          "Value": 5
-        },
-        {
-          "Hour": 7,
-          "Value": -5
-        },
-        {
-          "Hour": 8,
-          "Value": 5
-        },
-        {
-          "Hour": 9,
-          "Value": -5
-        },
-        {
-          "Hour": 10,
-          "Value": 5
-        },
-        {
-          "Hour": 11,
-          "Value": -5
-        },
-        {
-          "Hour": 12,
-          "Value": 5
-        },
-        {
-          "Hour": 14,
-          "Value": 5
-        },
-        {
-          "Hour": 13,
-          "Value": -5
-        },
-        {
-          "Hour": 15,
-          "Value": -5
-        },
-        {
-          "Hour": 16,
-          "Value": 5
-        },
-        {
-          "Hour": 17,
-          "Value": -5
-        },
-        {
-          "Hour": 18,
-          "Value": 5
-        },
-        {
-          "Hour": 19,
-          "Value": -5
-        },
-        {
-          "Hour": 20,
-          "Value": 5
-        },
-        {
-          "Hour": 21,
-          "Value": -5
-        },
-        {
-          "Hour": 22,
-          "Value": 5
-        },
-        {
-          "Hour": 23,
-          "Value": -5
-        }
-      ]
-    },
-    {
       "Texture": "Sky/Clouds/Cloud_Web.png",
       "Colors": [
         {
@@ -159,27 +52,27 @@
       "Colors": [
         {
           "Hour": 3,
-          "Color": "#2c2c2cce"
+          "Color": "#2c2c2cff"
         },
         {
           "Hour": 20,
-          "Color": "#2c2c2cce"
+          "Color": "#2c2c2cff"
         },
         {
           "Hour": 18,
-          "Color": "#626a72d9"
+          "Color": "#626a72ff"
         },
         {
           "Hour": 5,
-          "Color": "#626a72d9"
+          "Color": "#626a72ff"
         },
         {
           "Hour": 9,
-          "Color": "#8c99a7b5"
+          "Color": "#8c99a7ff"
         },
         {
           "Hour": 14,
-          "Color": "#8c99a7b5"
+          "Color": "#8c99a7ff"
         }
       ]
     }
@@ -363,25 +256,41 @@
     }
   ],
   "FogDistance": [
-    -2700,
+    -1000,
     500
   ],
   "SunGlowColors": [
     {
       "Hour": 5,
-      "Color": "#afffe6ff"
+      "Color": "#afffe68e"
     },
     {
       "Hour": 7,
-      "Color": "#c3f5e2ff"
+      "Color": "#edfff8da"
     },
     {
       "Hour": 17,
-      "Color": "#c3f5e2ff"
+      "Color": "#c3f5e2d9"
     },
     {
       "Hour": 19,
-      "Color": "#afffe6ff"
+      "Color": "#edfff8da"
+    },
+    {
+      "Hour": 11,
+      "Color": "#f3e9dbff"
+    },
+    {
+      "Hour": 13,
+      "Color": "#f3e9dbff"
+    },
+    {
+      "Hour": 3,
+      "Color": "#d1ebff41"
+    },
+    {
+      "Hour": 21,
+      "Color": "#d1ebff41"
     }
   ],
   "WaterTints": [
