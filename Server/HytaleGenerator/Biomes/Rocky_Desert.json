@@ -15,118 +15,160 @@
 					"Skip":	false,
 					"Range":	0.5,
 					"Inputs":	[{
-							"$NodeId":	"SmoothMaxDensityNode-829c4e20-e1b7-450d-8162-587949d88603",
-							"Type":	"SmoothMax",
+							"$NodeId":	"YOverride.Density-42820fd2-476f-4d3b-ae21-ea560a979adb",
+							"Type":	"YOverride",
 							"Skip":	false,
-							"Range":	0.8,
+							"Value":	0,
 							"Inputs":	[{
-									"$NodeId":	"PositionsTwist.Density-173fddb8-4255-43a8-87dc-e87a0f8ce22e",
-									"Type":	"PositionsTwist",
+									"$NodeId":	"Cache.Density-32af51a6-a61b-40fd-89d3-acf18d2da97b",
+									"Type":	"Cache",
 									"Skip":	false,
-									"MaxDistance":	450,
-									"ZeroPositionsY":	false,
-									"NormalizeDistance":	true,
-									"Positions":	{
-										"$NodeId":	"Mesh2DPositions-74d9f4d0-2882-40d2-a518-5f6f86ff646d",
-										"Type":	"Mesh2D",
-										"Skip":	false,
-										"PointsY":	0,
-										"PointGenerator":	{
-											"$NodeId":	"MeshPointGenerator-e2236478-8418-43f5-8b43-1c4273855e47",
-											"Type":	"Mesh",
-											"Jitter":	0.4,
-											"ScaleX":	500,
-											"ScaleY":	500,
-											"ScaleZ":	500,
-											"Seed":	"A"
-										}
-									},
-									"TwistAxis":	{
-										"$NodeId":	"Point3D-51e86d41-825a-4ce2-9605-4462a7ecbe4d",
-										"X":	0,
-										"Y":	1,
-										"Z":	0
-									},
-									"TwistCurve":	{
-										"$NodeId":	"ManualCurve-918ad00f-745d-4057-874e-9eda4711a579",
-										"Type":	"Manual",
-										"Points":	[{
-												"$NodeId":	"CurvePoint-5a757656-0b44-458f-8b64-64eaea7dd0f0",
-												"In":	0,
-												"Out":	0
-											}, {
-												"$NodeId":	"CurvePoint-10288424-f83b-43dc-8654-47621665985b",
-												"In":	0.5,
-												"Out":	50
-											}, {
-												"$NodeId":	"CurvePoint-e3e56cdb-5d0d-4a37-8d49-59e8cf2d4b93",
-												"In":	1,
-												"Out":	0
-											}]
-									},
+									"Capacity":	3,
 									"Inputs":	[{
-											"$NodeId":	"CurveMapper.Density-17afd203-7222-47a9-bc99-9eabe1da14b6",
-											"Type":	"CurveMapper",
+											"$NodeId":	"PositionsCellNoiseDensityNode-603106e9-03ee-4c17-a630-ff0887dbac52",
+											"Type":	"PositionsCellNoise",
 											"Skip":	false,
-											"Curve":	{
-												"$NodeId":	"ManualCurve-44badae5-ca56-488f-a150-10cbd06ac109",
-												"Type":	"Manual",
-												"Points":	[{
-														"$NodeId":	"CurvePoint-2ee8f409-6b80-4cdb-ba8c-b418b4a6b386",
-														"In":	1,
-														"Out":	0.9
-													}, {
-														"$NodeId":	"CurvePoint-6cc4ce23-44f4-4b7e-859c-9b84e64845be",
-														"In":	0,
-														"Out":	0.1
-													}, {
-														"$NodeId":	"CurvePoint-28577329-69ab-4670-ad39-c1016aba5259",
-														"In":	-0.7,
-														"Out":	-0.2
-													}, {
-														"$NodeId":	"CurvePoint-b8a75d0e-b06c-4c02-947a-3bc5c04c097b",
-														"In":	-1,
-														"Out":	-0.7
-													}]
+											"MaxDistance":	15,
+											"Positions":	{
+												"$NodeId":	"Mesh2DPositions-c785de9b-d9e0-4f5a-b167-64ba4c3d1c51",
+												"Type":	"Mesh2D",
+												"Skip":	false,
+												"PointsY":	10,
+												"PointGenerator":	{
+													"$NodeId":	"MeshPointGenerator-a6aa8b7e-7948-4080-af6c-6b986db62e53",
+													"Type":	"Mesh",
+													"Jitter":	0.4,
+													"ScaleX":	10,
+													"ScaleY":	10,
+													"ScaleZ":	10,
+													"Seed":	"B"
+												}
 											},
-											"Inputs":	[{
-													"$NodeId":	"SimplexNoise2DDensityNode-0494277f-c8da-42b0-9512-1453741ddd15",
-													"Type":	"SimplexNoise2D",
+											"ReturnType":	{
+												"$NodeId":	"CellValuePCNReturnType-8d721ddd-d3f8-42ab-96d2-c0b0066a83df",
+												"Type":	"CellValue",
+												"Density":	{
+													"$NodeId":	"SmoothMaxDensityNode-829c4e20-e1b7-450d-8162-587949d88603",
+													"Type":	"SmoothMax",
 													"Skip":	false,
-													"Lacunarity":	0.8,
-													"Persistence":	0.5,
-													"Octaves":	2,
-													"Scale":	500,
-													"Seed":	"A"
-												}]
-										}]
-								}, {
-									"$NodeId":	"CurveMapper.Density-8d59232e-f0bb-4294-a5a4-dba280702ea2",
-									"Type":	"CurveMapper",
-									"Skip":	false,
-									"Curve":	{
-										"$NodeId":	"ManualCurve-ba48c27b-f4e0-48be-92c6-54c1e4308d09",
-										"Type":	"Manual",
-										"Points":	[{
-												"$NodeId":	"CurvePoint-c712c94a-7926-4b22-960d-bc100ebf2b4c",
-												"In":	95,
-												"Out":	0.3
-											}, {
-												"$NodeId":	"CurvePoint-13e24ae1-e769-410d-ae45-69998d0344c0",
-												"In":	130,
-												"Out":	-0.2
-											}, {
-												"$NodeId":	"CurvePoint-dd1a7254-a313-4321-950c-af5a7b2f869c",
-												"In":	240,
-												"Out":	-1
-											}]
-									},
-									"Inputs":	[{
-											"$NodeId":	"BaseHeight.Density-de43cb47-6829-4c93-a1c9-19515c35c0ae",
-											"Type":	"BaseHeight",
-											"Skip":	false,
-											"BaseHeightName":	"Base",
-											"Distance":	true
+													"Range":	0.8,
+													"Inputs":	[{
+															"$NodeId":	"PositionsTwist.Density-173fddb8-4255-43a8-87dc-e87a0f8ce22e",
+															"Type":	"PositionsTwist",
+															"Skip":	false,
+															"MaxDistance":	450,
+															"ZeroPositionsY":	false,
+															"NormalizeDistance":	true,
+															"Positions":	{
+																"$NodeId":	"Mesh2DPositions-74d9f4d0-2882-40d2-a518-5f6f86ff646d",
+																"Type":	"Mesh2D",
+																"Skip":	false,
+																"PointsY":	0,
+																"PointGenerator":	{
+																	"$NodeId":	"MeshPointGenerator-e2236478-8418-43f5-8b43-1c4273855e47",
+																	"Type":	"Mesh",
+																	"Jitter":	0.4,
+																	"ScaleX":	500,
+																	"ScaleY":	500,
+																	"ScaleZ":	500,
+																	"Seed":	"A"
+																}
+															},
+															"TwistAxis":	{
+																"$NodeId":	"Point3D-51e86d41-825a-4ce2-9605-4462a7ecbe4d",
+																"X":	0,
+																"Y":	1,
+																"Z":	0
+															},
+															"TwistCurve":	{
+																"$NodeId":	"ManualCurve-918ad00f-745d-4057-874e-9eda4711a579",
+																"Type":	"Manual",
+																"Points":	[{
+																		"$NodeId":	"CurvePoint-5a757656-0b44-458f-8b64-64eaea7dd0f0",
+																		"In":	0,
+																		"Out":	0
+																	}, {
+																		"$NodeId":	"CurvePoint-10288424-f83b-43dc-8654-47621665985b",
+																		"In":	0.5,
+																		"Out":	50
+																	}, {
+																		"$NodeId":	"CurvePoint-e3e56cdb-5d0d-4a37-8d49-59e8cf2d4b93",
+																		"In":	1,
+																		"Out":	0
+																	}]
+															},
+															"Inputs":	[{
+																	"$NodeId":	"CurveMapper.Density-17afd203-7222-47a9-bc99-9eabe1da14b6",
+																	"Type":	"CurveMapper",
+																	"Skip":	false,
+																	"Curve":	{
+																		"$NodeId":	"ManualCurve-44badae5-ca56-488f-a150-10cbd06ac109",
+																		"Type":	"Manual",
+																		"Points":	[{
+																				"$NodeId":	"CurvePoint-2ee8f409-6b80-4cdb-ba8c-b418b4a6b386",
+																				"In":	1,
+																				"Out":	0.9
+																			}, {
+																				"$NodeId":	"CurvePoint-6cc4ce23-44f4-4b7e-859c-9b84e64845be",
+																				"In":	0,
+																				"Out":	0.1
+																			}, {
+																				"$NodeId":	"CurvePoint-28577329-69ab-4670-ad39-c1016aba5259",
+																				"In":	-0.7,
+																				"Out":	-0.2
+																			}, {
+																				"$NodeId":	"CurvePoint-b8a75d0e-b06c-4c02-947a-3bc5c04c097b",
+																				"In":	-1,
+																				"Out":	-0.7
+																			}]
+																	},
+																	"Inputs":	[{
+																			"$NodeId":	"SimplexNoise2DDensityNode-0494277f-c8da-42b0-9512-1453741ddd15",
+																			"Type":	"SimplexNoise2D",
+																			"Skip":	false,
+																			"Lacunarity":	0.8,
+																			"Persistence":	0.5,
+																			"Octaves":	2,
+																			"Scale":	500,
+																			"Seed":	"A"
+																		}]
+																}]
+														}, {
+															"$NodeId":	"CurveMapper.Density-8d59232e-f0bb-4294-a5a4-dba280702ea2",
+															"Type":	"CurveMapper",
+															"Skip":	false,
+															"Curve":	{
+																"$NodeId":	"ManualCurve-ba48c27b-f4e0-48be-92c6-54c1e4308d09",
+																"Type":	"Manual",
+																"Points":	[{
+																		"$NodeId":	"CurvePoint-c712c94a-7926-4b22-960d-bc100ebf2b4c",
+																		"In":	95,
+																		"Out":	0.3
+																	}, {
+																		"$NodeId":	"CurvePoint-13e24ae1-e769-410d-ae45-69998d0344c0",
+																		"In":	130,
+																		"Out":	-0.2
+																	}, {
+																		"$NodeId":	"CurvePoint-dd1a7254-a313-4321-950c-af5a7b2f869c",
+																		"In":	240,
+																		"Out":	-1
+																	}]
+															},
+															"Inputs":	[{
+																	"$NodeId":	"BaseHeight.Density-de43cb47-6829-4c93-a1c9-19515c35c0ae",
+																	"Type":	"BaseHeight",
+																	"Skip":	false,
+																	"BaseHeightName":	"Base",
+																	"Distance":	true
+																}]
+														}]
+												},
+												"DefaultValue":	0
+											},
+											"DistanceFunction":	{
+												"$NodeId":	"PCNDistanceFunction-4405fb6f-11a8-4c05-9e80-2869ac941c15",
+												"Type":	"Euclidean"
+											}
 										}]
 								}]
 						}, {
@@ -2073,6 +2115,48 @@
 				"$Position":	{
 					"$x":	-3781,
 					"$y":	-311
+				}
+			},
+			"YOverride.Density-42820fd2-476f-4d3b-ae21-ea560a979adb":	{
+				"$Position":	{
+					"$x":	-12,
+					"$y":	-8694
+				}
+			},
+			"Cache.Density-32af51a6-a61b-40fd-89d3-acf18d2da97b":	{
+				"$Position":	{
+					"$x":	871,
+					"$y":	-8739
+				}
+			},
+			"PositionsCellNoiseDensityNode-603106e9-03ee-4c17-a630-ff0887dbac52":	{
+				"$Position":	{
+					"$x":	1833,
+					"$y":	-8820
+				}
+			},
+			"CellValuePCNReturnType-8d721ddd-d3f8-42ab-96d2-c0b0066a83df":	{
+				"$Position":	{
+					"$x":	2729,
+					"$y":	-8592
+				}
+			},
+			"PCNDistanceFunction-4405fb6f-11a8-4c05-9e80-2869ac941c15":	{
+				"$Position":	{
+					"$x":	2761,
+					"$y":	-8764
+				}
+			},
+			"Mesh2DPositions-c785de9b-d9e0-4f5a-b167-64ba4c3d1c51":	{
+				"$Position":	{
+					"$x":	2914,
+					"$y":	-9182
+				}
+			},
+			"MeshPointGenerator-a6aa8b7e-7948-4080-af6c-6b986db62e53":	{
+				"$Position":	{
+					"$x":	3694,
+					"$y":	-9128
 				}
 			}
 		},
