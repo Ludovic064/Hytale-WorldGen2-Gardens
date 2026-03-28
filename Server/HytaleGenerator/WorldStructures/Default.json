@@ -2,12 +2,12 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "Rocky_Desert",
+      "Biome": "Sea_Of_Sand",
       "Min": -1,
       "Max": 1
     }
   ],
-  "DefaultBiome": "Rocky_Desert",
+  "DefaultBiome": "Sea_Of_Sand",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {
