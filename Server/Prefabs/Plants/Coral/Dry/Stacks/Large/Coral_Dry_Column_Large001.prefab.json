@@ -536,6 +536,13 @@
     },
     {
       "x": -6,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Crystal_White_Small",
+      "rotation": 8
+    },
+    {
+      "x": -6,
       "y": 9,
       "z": -1,
       "name": "Plant_Coral_Block_Dead2"
@@ -814,6 +821,13 @@
     },
     {
       "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Crystal_White_Large",
+      "rotation": 7
+    },
+    {
+      "x": -5,
       "y": 2,
       "z": -1,
       "name": "Plant_Coral_Block_White"
@@ -1334,7 +1348,7 @@
       "x": -4,
       "y": 0,
       "z": -1,
-      "name": "Rock_Marble"
+      "name": "Rock_Crystal_White_Block"
     },
     {
       "x": -4,
@@ -2169,7 +2183,7 @@
       "x": -3,
       "y": 16,
       "z": -2,
-      "name": "Rock_Marble"
+      "name": "Rock_Crystal_White_Block"
     },
     {
       "x": -3,
@@ -3591,7 +3605,7 @@
       "x": -2,
       "y": 2,
       "z": 3,
-      "name": "Rock_Marble"
+      "name": "Rock_Crystal_White_Block"
     },
     {
       "x": -2,
@@ -3676,6 +3690,13 @@
       "y": 16,
       "z": 3,
       "name": "Rock_Marble"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Crystal_White_Medium",
+      "rotation": 4
     },
     {
       "x": -2,
@@ -3941,6 +3962,13 @@
       "y": 4,
       "z": -6,
       "name": "Plant_Coral_Block_White"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -6,
+      "name": "Rock_Crystal_White_Small",
+      "rotation": 8
     },
     {
       "x": -1,
@@ -5168,6 +5196,12 @@
     },
     {
       "x": 0,
+      "y": 15,
+      "z": -5,
+      "name": "Rock_Crystal_White_Medium"
+    },
+    {
+      "x": 0,
       "y": 0,
       "z": -4,
       "name": "Rock_Marble"
@@ -5194,7 +5228,7 @@
       "x": 0,
       "y": 4,
       "z": -4,
-      "name": "Rock_Marble"
+      "name": "Rock_Crystal_White_Block"
     },
     {
       "x": 0,
@@ -7648,6 +7682,13 @@
     },
     {
       "x": 2,
+      "y": 12,
+      "z": -4,
+      "name": "Rock_Crystal_White_Small",
+      "rotation": 6
+    },
+    {
+      "x": 2,
       "y": 13,
       "z": -4,
       "name": "Plant_Coral_Block_White"
@@ -7746,7 +7787,7 @@
       "x": 2,
       "y": 12,
       "z": -3,
-      "name": "Rock_Marble"
+      "name": "Rock_Crystal_White_Block"
     },
     {
       "x": 2,
@@ -8346,7 +8387,7 @@
       "x": 2,
       "y": 10,
       "z": 3,
-      "name": "Rock_Marble"
+      "name": "Rock_Crystal_White_Block"
     },
     {
       "x": 2,
@@ -8395,6 +8436,12 @@
       "y": 1,
       "z": 4,
       "name": "Plant_Coral_Block_Dead"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "name": "Rock_Crystal_White_Small"
     },
     {
       "x": 2,
@@ -8425,6 +8472,13 @@
       "y": 8,
       "z": 4,
       "name": "Plant_Coral_Bush_Dead3"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 4,
+      "name": "Rock_Crystal_White_Medium",
+      "rotation": 4
     },
     {
       "x": 2,
@@ -8813,6 +8867,12 @@
     },
     {
       "x": 3,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Crystal_White_Small"
+    },
+    {
+      "x": 3,
       "y": 6,
       "z": -3,
       "name": "Plant_Coral_Bush_Dead3"
@@ -9470,6 +9530,12 @@
       "y": 14,
       "z": 3,
       "name": "Plant_Coral_Block_Dead"
+    },
+    {
+      "x": 3,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Crystal_White_Large"
     },
     {
       "x": 3,
@@ -9572,6 +9638,13 @@
       "y": 4,
       "z": 6,
       "name": "Plant_Coral_Bush_Dead"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 6,
+      "name": "Rock_Crystal_White_Small",
+      "rotation": 8
     },
     {
       "x": 3,

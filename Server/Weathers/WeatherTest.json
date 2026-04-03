@@ -11,11 +11,11 @@
       "Colors": [
         {
           "Hour": 3,
-          "Color": "#00000000"
+          "Color": "#26232cb5"
         },
         {
           "Hour": 20,
-          "Color": "#00000000"
+          "Color": "#26232cb5"
         },
         {
           "Hour": 5,
@@ -37,7 +37,7 @@
       "Speeds": [
         {
           "Hour": 0,
-          "Value": 1
+          "Value": 3
         }
       ]
     },
@@ -79,10 +79,6 @@
   ],
   "SkyTopColors": [
     {
-      "Hour": 0,
-      "Color": "#00000000"
-    },
-    {
       "Hour": 5,
       "Color": "#727c7eff"
     },
@@ -97,6 +93,14 @@
     {
       "Hour": 14,
       "Color": "#a6cfd3ff"
+    },
+    {
+      "Hour": 2,
+      "Color": "#1f173bff"
+    },
+    {
+      "Hour": 23,
+      "Color": "#1f173bff"
     }
   ],
   "SkySunsetColors": [
@@ -270,11 +274,11 @@
     },
     {
       "Hour": 17,
-      "Color": "#c3f5e2d9"
+      "Color": "#edfff8da"
     },
     {
       "Hour": 19,
-      "Color": "#edfff8da"
+      "Color": "#afffe68e"
     },
     {
       "Hour": 11,
@@ -337,7 +341,32 @@
       "Color": "#8ea3b400"
     }
   ],
-  "ScreenEffectColors": null,
+  "ScreenEffectColors": [
+    {
+      "Hour": 7,
+      "Color": "#ffffff00"
+    },
+    {
+      "Hour": 17,
+      "Color": "#ffffff00"
+    },
+    {
+      "Hour": 4,
+      "Color": "#5479b4e6"
+    },
+    {
+      "Hour": 20,
+      "Color": "#5479b4e6"
+    },
+    {
+      "Hour": 22,
+      "Color": "#554d86ff"
+    },
+    {
+      "Hour": 2,
+      "Color": "#554d86ff"
+    }
+  ],
   "FogOptions": {
     "IgnoreFogLimits": false
   },
