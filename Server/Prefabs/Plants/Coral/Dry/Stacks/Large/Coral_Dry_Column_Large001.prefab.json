@@ -3389,7 +3389,7 @@
       "x": -2,
       "y": 0,
       "z": 1,
-      "name": "Rock_Salt"
+      "name": "Rock_Marble"
     },
     {
       "x": -2,
@@ -3485,7 +3485,7 @@
       "x": -2,
       "y": 16,
       "z": 1,
-      "name": "Rock_Salt"
+      "name": "Rock_Marble"
     },
     {
       "x": -2,
@@ -4316,7 +4316,7 @@
       "x": -1,
       "y": 0,
       "z": -1,
-      "name": "Rock_Salt"
+      "name": "Rock_Marble"
     },
     {
       "x": -1,
@@ -4622,7 +4622,7 @@
       "x": -1,
       "y": 0,
       "z": 2,
-      "name": "Rock_Salt"
+      "name": "Rock_Marble"
     },
     {
       "x": -1,
@@ -5918,7 +5918,7 @@
       "x": 0,
       "y": 0,
       "z": 3,
-      "name": "Plant_Coral_Block_White"
+      "name": "Rock_Marble"
     },
     {
       "x": 0,
@@ -6020,7 +6020,7 @@
       "x": 0,
       "y": 0,
       "z": 4,
-      "name": "Plant_Coral_Block_White"
+      "name": "Rock_Marble"
     },
     {
       "x": 0,
@@ -7113,7 +7113,7 @@
       "x": 1,
       "y": 0,
       "z": 3,
-      "name": "Plant_Coral_Block_White"
+      "name": "Rock_Marble"
     },
     {
       "x": 1,
@@ -7215,7 +7215,7 @@
       "x": 1,
       "y": 0,
       "z": 4,
-      "name": "Plant_Coral_Block_White"
+      "name": "Rock_Marble"
     },
     {
       "x": 1,
@@ -8117,7 +8117,7 @@
       "x": 2,
       "y": 16,
       "z": 0,
-      "name": "Rock_Salt"
+      "name": "Rock_Marble"
     },
     {
       "x": 2,
@@ -8327,7 +8327,7 @@
       "x": 2,
       "y": 0,
       "z": 3,
-      "name": "Plant_Coral_Block_White"
+      "name": "Rock_Marble"
     },
     {
       "x": 2,
