@@ -11,11 +11,11 @@
       "Colors": [
         {
           "Hour": 3,
-          "Color": "#26232cb5"
+          "Color": "#5c556bb5"
         },
         {
           "Hour": 20,
-          "Color": "#26232cb5"
+          "Color": "#5c556bb5"
         },
         {
           "Hour": 5,
@@ -360,11 +360,11 @@
     },
     {
       "Hour": 22,
-      "Color": "#554d86ff"
+      "Color": "#554d86e6"
     },
     {
       "Hour": 2,
-      "Color": "#554d86ff"
+      "Color": "#554d86e6"
     }
   ],
   "FogOptions": {
