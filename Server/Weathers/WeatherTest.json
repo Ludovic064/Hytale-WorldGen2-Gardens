@@ -228,7 +228,7 @@
   "FogColors": [
     {
       "Hour": 17,
-      "Color": "#ada08f"
+      "Color": "#c5d0d3"
     },
     {
       "Hour": 19,
@@ -248,20 +248,28 @@
     },
     {
       "Hour": 6,
-      "Color": "#ada08f"
+      "Color": "#c5d0d3"
     },
     {
       "Hour": 9,
-      "Color": "#c3b79c"
+      "Color": "#e2d0a9"
     },
     {
       "Hour": 14,
-      "Color": "#c3b79c"
+      "Color": "#e2d0a9"
+    },
+    {
+      "Hour": 8,
+      "Color": "#ada08f"
+    },
+    {
+      "Hour": 15,
+      "Color": "#ada08f"
     }
   ],
   "FogDistance": [
-    -1000,
-    500
+    -64,
+    1024
   ],
   "SunGlowColors": [
     {
@@ -370,10 +378,205 @@
   "FogOptions": {
     "IgnoreFogLimits": false
   },
-  "FogHeightFalloffs": null,
+  "FogHeightFalloffs": [
+    {
+      "Hour": 0,
+      "Value": 4
+    },
+    {
+      "Hour": 1,
+      "Value": 4
+    },
+    {
+      "Hour": 2,
+      "Value": 4
+    },
+    {
+      "Hour": 3,
+      "Value": 4
+    },
+    {
+      "Hour": 4,
+      "Value": 4
+    },
+    {
+      "Hour": 5,
+      "Value": 4
+    },
+    {
+      "Hour": 6,
+      "Value": 4
+    },
+    {
+      "Hour": 7,
+      "Value": 4
+    },
+    {
+      "Hour": 8,
+      "Value": 4
+    },
+    {
+      "Hour": 9,
+      "Value": 4
+    },
+    {
+      "Hour": 10,
+      "Value": 4
+    },
+    {
+      "Hour": 11,
+      "Value": 4
+    },
+    {
+      "Hour": 12,
+      "Value": 4
+    },
+    {
+      "Hour": 13,
+      "Value": 4
+    },
+    {
+      "Hour": 14,
+      "Value": 4
+    },
+    {
+      "Hour": 15,
+      "Value": 4
+    },
+    {
+      "Hour": 16,
+      "Value": 4
+    },
+    {
+      "Hour": 17,
+      "Value": 4
+    },
+    {
+      "Hour": 18,
+      "Value": 4
+    },
+    {
+      "Hour": 19,
+      "Value": 4
+    },
+    {
+      "Hour": 20,
+      "Value": 4
+    },
+    {
+      "Hour": 21,
+      "Value": 4
+    },
+    {
+      "Hour": 22,
+      "Value": 4
+    },
+    {
+      "Hour": 23,
+      "Value": 4
+    }
+  ],
   "ColorFilters": null,
   "Particle": {
     "SystemId": "FloatingDustParSys",
     "Color": "#aaa8a1"
-  }
+  },
+  "FogDensities": [
+    {
+      "Hour": 0,
+      "Value": 1
+    },
+    {
+      "Hour": 1,
+      "Value": 1
+    },
+    {
+      "Hour": 2,
+      "Value": 1.5
+    },
+    {
+      "Hour": 3,
+      "Value": 1
+    },
+    {
+      "Hour": 4,
+      "Value": 0.95
+    },
+    {
+      "Hour": 5,
+      "Value": 0.85
+    },
+    {
+      "Hour": 6,
+      "Value": 0.85
+    },
+    {
+      "Hour": 7,
+      "Value": 0.85
+    },
+    {
+      "Hour": 8,
+      "Value": 0.85
+    },
+    {
+      "Hour": 9,
+      "Value": 0.85
+    },
+    {
+      "Hour": 10,
+      "Value": 0.65
+    },
+    {
+      "Hour": 11,
+      "Value": 0.1
+    },
+    {
+      "Hour": 12,
+      "Value": 0.1
+    },
+    {
+      "Hour": 13,
+      "Value": 0.65
+    },
+    {
+      "Hour": 14,
+      "Value": 0.85
+    },
+    {
+      "Hour": 15,
+      "Value": 0.85
+    },
+    {
+      "Hour": 16,
+      "Value": 0.85
+    },
+    {
+      "Hour": 17,
+      "Value": 0.85
+    },
+    {
+      "Hour": 18,
+      "Value": 0.85
+    },
+    {
+      "Hour": 19,
+      "Value": 0.95
+    },
+    {
+      "Hour": 20,
+      "Value": 1
+    },
+    {
+      "Hour": 21,
+      "Value": 1.5
+    },
+    {
+      "Hour": 22,
+      "Value": 1
+    },
+    {
+      "Hour": 23,
+      "Value": 1
+    }
+  ]
 }
