@@ -7,52 +7,76 @@
   "blocks": [
     {
       "x": -22,
-      "y": 9,
+      "y": 10,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -22,
+      "y": 11,
       "z": 0,
       "name": "Wood_Drywood_Decorative"
     },
     {
       "x": -22,
-      "y": 10,
+      "y": 12,
       "z": 0,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
     },
     {
       "x": -22,
-      "y": 9,
+      "y": 10,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -22,
+      "y": 11,
       "z": 1,
       "name": "Wood_Drywood_Decorative"
     },
     {
       "x": -22,
-      "y": 10,
+      "y": 12,
       "z": 1,
       "name": "Wood_Drywood_Fence",
       "rotation": 3
     },
     {
       "x": -22,
-      "y": 9,
+      "y": 10,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -22,
+      "y": 11,
       "z": 2,
       "name": "Wood_Drywood_Decorative"
     },
     {
       "x": -22,
-      "y": 10,
+      "y": 12,
       "z": 2,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
     },
     {
       "x": -21,
-      "y": 9,
+      "y": 10,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -21,
+      "y": 11,
       "z": -1,
       "name": "Wood_Drywood_Decorative"
     },
     {
       "x": -21,
-      "y": 10,
+      "y": 12,
       "z": -1,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
@@ -65,14 +89,32 @@
     },
     {
       "x": -21,
-      "y": 10,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -21,
+      "y": 12,
       "z": 0,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
     },
     {
       "x": -21,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -21,
       "y": 9,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -21,
+      "y": 11,
       "z": 1,
       "name": "Wood_Drywood_Planks"
     },
@@ -84,19 +126,31 @@
     },
     {
       "x": -21,
-      "y": 10,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -21,
+      "y": 12,
       "z": 2,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
     },
     {
       "x": -21,
-      "y": 9,
+      "y": 10,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -21,
+      "y": 11,
       "z": 3,
       "name": "Wood_Drywood_Decorative"
     },
     {
       "x": -21,
-      "y": 10,
+      "y": 12,
       "z": 3,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
@@ -105,44 +159,104 @@
       "x": -20,
       "y": 9,
       "z": -2,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -20,
       "y": 10,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -20,
+      "y": 12,
       "z": -2,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
     },
     {
       "x": -20,
+      "y": 8,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
       "y": 9,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -20,
-      "y": 10,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 12,
       "z": -1,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
     },
     {
       "x": -20,
-      "y": 9,
+      "y": 7,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -20,
-      "y": 9,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 7,
       "z": 1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -20,
-      "y": 9,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 7,
       "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 8,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 8,
+      "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -153,7 +267,13 @@
     },
     {
       "x": -20,
-      "y": 10,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 12,
       "z": 3,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
     },
@@ -161,11 +281,23 @@
       "x": -20,
       "y": 9,
       "z": 4,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -20,
       "y": 10,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -20,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -20,
+      "y": 12,
       "z": 4,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
@@ -174,43 +306,114 @@
       "x": -19,
       "y": 9,
       "z": -2,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -19,
       "y": 10,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -19,
+      "y": 12,
       "z": -2,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -19,
-      "y": 9,
+      "y": 7,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -19,
-      "y": 9,
+      "y": 8,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 6,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -19,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -19,
-      "y": 9,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 6,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -19,
-      "y": 9,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 8,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 11,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
@@ -218,11 +421,23 @@
       "x": -19,
       "y": 9,
       "z": 4,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -19,
       "y": 10,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -19,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -19,
+      "y": 12,
       "z": 4,
       "name": "Wood_Drywood_Fence"
     },
@@ -230,68 +445,163 @@
       "x": -18,
       "y": 9,
       "z": -3,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
       "y": 10,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -18,
+      "y": 12,
       "z": -3,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
     },
     {
       "x": -18,
-      "y": 9,
+      "y": 8,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 10,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 12,
       "z": -2,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
     },
     {
       "x": -18,
-      "y": 9,
+      "y": 7,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 9,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 5,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 9,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 5,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 6,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 5,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 9,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 7,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 9,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 8,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
-      "y": 10,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 12,
       "z": 4,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
     },
@@ -299,12 +609,24 @@
       "x": -18,
       "y": 9,
       "z": 5,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -18,
       "y": 10,
       "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -18,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -18,
+      "y": 12,
+      "z": 5,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
     },
@@ -312,55 +634,168 @@
       "x": -17,
       "y": 9,
       "z": -3,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
       "y": 10,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -17,
+      "y": 12,
       "z": -3,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -17,
-      "y": 9,
+      "y": 8,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
-      "y": 9,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 6,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
-      "y": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 4,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 5,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
-      "y": 9,
+      "y": 6,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 4,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
-      "y": 9,
+      "y": 5,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 6,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 6,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
-      "y": 9,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 8,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
@@ -368,11 +803,23 @@
       "x": -17,
       "y": 9,
       "z": 5,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -17,
       "y": 10,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -17,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -17,
+      "y": 12,
       "z": 5,
       "name": "Wood_Drywood_Fence"
     },
@@ -380,80 +827,205 @@
       "x": -16,
       "y": 9,
       "z": -4,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
       "y": 10,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -16,
+      "y": 12,
       "z": -4,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 8,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 10,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 12,
       "z": -3,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 7,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 8,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 5,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 4,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 4,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 4,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 5,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 7,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 9,
+      "y": 8,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 8,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
-      "y": 10,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 12,
       "z": 5,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
     },
@@ -461,11 +1033,23 @@
       "x": -16,
       "y": 9,
       "z": 6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -16,
       "y": 10,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -16,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -16,
+      "y": 12,
       "z": 6,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
@@ -474,67 +1058,186 @@
       "x": -15,
       "y": 9,
       "z": -4,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
       "y": 10,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -15,
+      "y": 12,
       "z": -4,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 8,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 6,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 5,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 6,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 4,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 4,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 5,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 6,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 6,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
-      "y": 9,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 8,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
@@ -542,11 +1245,23 @@
       "x": -15,
       "y": 9,
       "z": 6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -15,
       "y": 10,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -15,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -15,
+      "y": 12,
       "z": 6,
       "name": "Wood_Drywood_Fence"
     },
@@ -554,92 +1269,247 @@
       "x": -14,
       "y": 9,
       "z": -5,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
       "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -14,
+      "y": 12,
       "z": -5,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 8,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 10,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 12,
       "z": -4,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 7,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 8,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 5,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 4,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 3,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 4,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 3,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 4,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 4,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 5,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 7,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 9,
+      "y": 8,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 8,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
-      "y": 10,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 12,
       "z": 6,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
     },
@@ -647,11 +1517,23 @@
       "x": -14,
       "y": 9,
       "z": 7,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -14,
       "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -14,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -14,
+      "y": 12,
       "z": 7,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
@@ -660,79 +1542,222 @@
       "x": -13,
       "y": 9,
       "z": -5,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
       "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -13,
+      "y": 12,
       "z": -5,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 8,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 6,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 5,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 4,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 3,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 3,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 4,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 5,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 6,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
-      "y": 9,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
@@ -740,11 +1765,23 @@
       "x": -13,
       "y": 9,
       "z": 7,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -13,
       "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -13,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -13,
+      "y": 12,
       "z": 7,
       "name": "Wood_Drywood_Fence"
     },
@@ -752,79 +1789,234 @@
       "x": -12,
       "y": 9,
       "z": -5,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
       "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -12,
+      "y": 12,
       "z": -5,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 8,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 5,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 4,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 3,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 3,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 3,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 3,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 4,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 5,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
-      "y": 9,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
@@ -832,11 +2024,23 @@
       "x": -12,
       "y": 9,
       "z": 7,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -12,
       "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -12,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -12,
+      "y": 12,
       "z": 7,
       "name": "Wood_Drywood_Fence"
     },
@@ -844,137 +2048,285 @@
       "x": -11,
       "y": 9,
       "z": -5,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
       "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -11,
+      "y": 12,
       "z": -5,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 8,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 15,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 17,
       "z": -4,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 6
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 5,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 13,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 15,
       "z": -3,
       "name": "Cloth_Roof_Hide_Flap",
+      "support": 15,
       "rotation": 3
     },
     {
       "x": -11,
-      "y": 14,
+      "y": 16,
       "z": -3,
       "name": "Cloth_Roof_Hide_Vertical",
       "rotation": 3
     },
     {
       "x": -11,
-      "y": 15,
+      "y": 17,
       "z": -3,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 4,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 14,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 16,
       "z": -2,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 3
     },
     {
       "x": -11,
-      "y": 15,
+      "y": 17,
       "z": -2,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 3,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 14,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 16,
       "z": -1,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 3
     },
     {
       "x": -11,
-      "y": 15,
+      "y": 17,
       "z": -1,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 4
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 3,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 3,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 3,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 4,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 5,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
-      "y": 9,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
@@ -982,11 +2334,23 @@
       "x": -11,
       "y": 9,
       "z": 7,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -11,
       "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -11,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -11,
+      "y": 12,
       "z": 7,
       "name": "Wood_Drywood_Fence"
     },
@@ -994,207 +2358,384 @@
       "x": -10,
       "y": 9,
       "z": -6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
       "y": 10,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": -6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -10,
+      "y": 12,
       "z": -6,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 8,
       "z": -5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 10,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 12,
       "z": -5,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 7,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 8,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 5,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 4,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 18,
       "z": -2,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 6
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 3,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 14,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 16,
       "z": -1,
       "name": "Cloth_Roof_Hide_Flap",
+      "support": 15,
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 15,
+      "y": 17,
       "z": -1,
       "name": "Cloth_Roof_Hide_Vertical",
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 18,
       "z": -1,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 3,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 15,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 17,
       "z": 0,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 18,
       "z": 0,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 2,
       "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 14,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 12,
+      "z": 1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 7
+    },
+    {
+      "x": -10,
+      "y": 16,
       "z": 1,
       "name": "Cloth_Roof_Hide_Flap",
+      "support": 15,
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 15,
+      "y": 17,
       "z": 1,
       "name": "Cloth_Roof_Hide_Vertical",
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 18,
       "z": 1,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 3,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 18,
       "z": 2,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 3,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 15,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 17,
       "z": 3,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 1
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 18,
       "z": 3,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 4,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 15,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 17,
       "z": 4,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 3
     },
     {
       "x": -10,
-      "y": 16,
+      "y": 18,
       "z": 4,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 4
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 5,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 7,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 9,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 8,
       "z": 7,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
-      "y": 10,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 12,
       "z": 7,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
     },
@@ -1202,11 +2743,23 @@
       "x": -10,
       "y": 9,
       "z": 8,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -10,
       "y": 10,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -10,
+      "y": 11,
+      "z": 8,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -10,
+      "y": 12,
       "z": 8,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 2
@@ -1215,77 +2768,203 @@
       "x": -9,
       "y": 9,
       "z": -6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
       "y": 10,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": -6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -9,
+      "y": 12,
       "z": -6,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 8,
       "z": -5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 4,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 5,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
       "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": -9,
+      "y": 13,
       "z": 0,
       "name": "Furniture_Desert_Sign",
       "rotation": 3
     },
     {
       "x": -9,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 18,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
     },
     {
       "x": -9,
-      "y": 10,
+      "y": 2,
       "z": 1,
-      "name": "Wood_Dry_Trunk",
-      "support": 15
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
       "y": 11,
       "z": 1,
-      "name": "Wood_Dry_Trunk",
+      "name": "Wood_Drywood_Planks",
       "support": 15
     },
     {
@@ -1348,106 +3027,227 @@
       "x": -9,
       "y": 20,
       "z": 1,
+      "name": "Wood_Dry_Trunk"
+    },
+    {
+      "x": -9,
+      "y": 21,
+      "z": 1,
+      "name": "Wood_Dry_Trunk"
+    },
+    {
+      "x": -9,
+      "y": 22,
+      "z": 1,
       "name": "Wood_Dry_Trunk_Half"
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
       "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": 2,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": -9,
+      "y": 13,
       "z": 2,
       "name": "Furniture_Desert_Sign",
       "rotation": 3
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 18,
+      "z": 2,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": -9,
+      "y": 3,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 17,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 19,
       "z": 3,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 6
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 3,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 14,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 16,
       "z": 4,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 1
     },
     {
       "x": -9,
-      "y": 15,
-      "z": 4,
-      "name": "Cloth_Roof_Hide_Vertical",
-      "rotation": 1
-    },
-    {
-      "x": -9,
-      "y": 16,
-      "z": 4,
-      "name": "Cloth_Roof_Hide_Vertical",
-      "rotation": 1
-    },
-    {
-      "x": -9,
       "y": 17,
       "z": 4,
-      "name": "Wood_Dry_Trunk",
+      "name": "Cloth_Roof_Hide_Vertical",
       "support": 15,
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 18,
+      "z": 4,
+      "name": "Cloth_Roof_Hide_Vertical",
+      "rotation": 1
+    },
+    {
+      "x": -9,
+      "y": 19,
+      "z": 4,
+      "name": "Wood_Dry_Trunk",
       "rotation": 4
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 4,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 16,
+      "y": 5,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 18,
       "z": 5,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 1
     },
     {
       "x": -9,
-      "y": 17,
+      "y": 19,
       "z": 5,
       "name": "Wood_Dry_Trunk",
-      "support": 15,
       "rotation": 4
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 6,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
-      "y": 17,
+      "y": 7,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 19,
       "z": 6,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 4
     },
     {
       "x": -9,
-      "y": 9,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
       "z": 7,
       "name": "Wood_Drywood_Planks"
     },
@@ -1455,103 +3255,378 @@
       "x": -9,
       "y": 9,
       "z": 8,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -9,
       "y": 10,
       "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -9,
+      "y": 11,
+      "z": 8,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -9,
+      "y": 12,
+      "z": 8,
       "name": "Wood_Drywood_Fence"
     },
     {
       "x": -8,
       "y": 9,
       "z": -6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
       "y": 10,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -8,
+      "y": 12,
       "z": -6,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 8,
       "z": -5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 5,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 6,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 4,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 5,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": -2,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 2,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": 1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": -8,
+      "y": 18,
+      "z": 1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": -8,
+      "y": 2,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 3,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 4,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 5,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 5,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 5,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
-      "y": 9,
+      "y": 6,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 7,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
       "z": 7,
       "name": "Wood_Drywood_Planks"
     },
@@ -1559,103 +3634,340 @@
       "x": -8,
       "y": 9,
       "z": 8,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -8,
       "y": 10,
       "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -8,
+      "y": 11,
+      "z": 8,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -8,
+      "y": 12,
+      "z": 8,
       "name": "Wood_Drywood_Fence"
     },
     {
       "x": -7,
       "y": 9,
       "z": -6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
       "y": 10,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -7,
+      "y": 12,
       "z": -6,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 8,
       "z": -5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 5,
       "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 6,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 4,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 5,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
       "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": -2,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
       "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 2,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 2,
       "z": 2,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 3,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 4,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 5,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "z": 5,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 5,
       "z": 6,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
-      "y": 9,
+      "y": 6,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 7,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
       "z": 7,
       "name": "Wood_Drywood_Planks"
     },
@@ -1663,31 +3975,115 @@
       "x": -7,
       "y": 9,
       "z": 8,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -7,
       "y": 10,
       "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -7,
+      "y": 11,
+      "z": 8,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -7,
+      "y": 12,
+      "z": 8,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
       "y": 9,
       "z": -6,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
       "y": 10,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -6,
+      "y": 12,
       "z": -6,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
       "x": -6,
+      "y": 7,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
       "y": 9,
       "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -1698,14 +4094,94 @@
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 10,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
       "z": -3,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
       "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": -2,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": -1,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -1716,21 +4192,110 @@
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 10,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 2,
       "z": 0,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 7,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 2,
       "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 2,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -1741,14 +4306,106 @@
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 10,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 3,
       "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 5,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 4,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 6,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
+      "z": 6,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -1759,21 +4416,81 @@
     },
     {
       "x": -6,
-      "y": 9,
+      "y": 10,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
       "z": 7,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
       "y": 9,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 8,
       "z": 8,
-      "name": "Wood_Drywood_Decorative"
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 9,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -6,
       "y": 10,
       "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -6,
+      "y": 11,
+      "z": 8,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -6,
+      "y": 12,
+      "z": 8,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -5,
@@ -1785,321 +4502,849 @@
       "x": -5,
       "y": 10,
       "z": -7,
-      "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
+      "name": "Wood_Drywood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -5,
+      "name": "Wood_Drywood_Stairs",
       "rotation": 1
     },
     {
       "x": -5,
       "y": 9,
-      "z": -6,
+      "z": -4,
       "name": "Wood_Drywood_Planks"
     },
     {
       "x": -5,
       "y": 10,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -2,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Drywood_Stairs"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": -1,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 0,
+      "name": "Wood_Drywood_Planks_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 0,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 1,
+      "name": "Wood_Drywood_Planks_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 1,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 2,
+      "name": "Wood_Drywood_Planks_Half",
+      "rotation": 8
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 2,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 2
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 12,
+      "z": 3,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 4,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 6,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 11,
+      "z": 7,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -5,
+      "y": 9,
+      "z": 9,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -5,
+      "y": 10,
+      "z": 9,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -7,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -7,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 9,
       "z": -6,
-      "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -5,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -2,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -1,
+      "name": "Wood_Drywood_Stairs"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": -1,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 0,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 1,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 2,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 2
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 11,
+      "z": 3,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 4,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 5,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 6,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 7,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 9,
+      "z": 9,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -4,
+      "y": 10,
+      "z": 9,
+      "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -7,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -7,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 0,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 1,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Wood_Drywood_Planks",
+      "support": 15
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 4,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Drywood_Stairs",
       "rotation": 3
     },
     {
-      "x": -5,
-      "y": 9,
-      "z": -5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": -4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": -2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": -1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 0,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
+      "x": -3,
       "y": 9,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": -5,
-      "y": 9,
+      "x": -3,
+      "y": 4,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": -5,
-      "y": 9,
-      "z": 6,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 7,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 8,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -5,
-      "y": 10,
-      "z": 8,
-      "name": "*Wood_Drywood_Fence_State_Definitions_Corner"
-    },
-    {
-      "x": -5,
-      "y": 9,
-      "z": 9,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": -5,
-      "y": 10,
-      "z": 9,
-      "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
-      "rotation": 2
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -7,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": -4,
-      "y": 10,
-      "z": -7,
-      "name": "Wood_Drywood_Fence",
-      "rotation": 2
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -6,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": -1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 0,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
+      "x": -3,
+      "y": 5,
       "z": 5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 6,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 7,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 8,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -4,
-      "y": 9,
-      "z": 9,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": -4,
-      "y": 10,
-      "z": 9,
-      "name": "Wood_Drywood_Fence"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -7,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": -3,
-      "y": 10,
-      "z": -7,
-      "name": "Wood_Drywood_Fence",
-      "rotation": 2
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -6,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": -1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": 0,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": 2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": 3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": -3,
-      "y": 9,
-      "z": 4,
-      "name": "Wood_Drywood_Planks"
+      "name": "Wood_Drywood_Stairs",
+      "rotation": 3
     },
     {
       "x": -3,
@@ -2123,6 +5368,12 @@
       "x": -3,
       "y": 9,
       "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 8,
+      "z": 9,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -2136,6 +5387,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -2,
@@ -2336,6 +5593,12 @@
     },
     {
       "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
       "y": 9,
       "z": 2,
       "name": "Wood_Drywood_Planks"
@@ -2355,6 +5618,12 @@
     },
     {
       "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
       "y": 9,
       "z": 4,
       "name": "Wood_Drywood_Planks_Half"
@@ -2365,6 +5634,12 @@
       "z": 4,
       "name": "Cloth_Roof_Hide_Flap",
       "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -2,
@@ -2406,6 +5681,12 @@
     },
     {
       "x": -2,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -2,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -2415,6 +5696,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": -1,
@@ -2742,6 +6029,12 @@
     },
     {
       "x": -1,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": -1,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -2751,6 +6044,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 0,
@@ -3000,6 +6299,12 @@
     },
     {
       "x": 0,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 0,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -3016,6 +6321,12 @@
       "z": 9,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 1,
@@ -3103,6 +6414,20 @@
     {
       "x": 1,
       "y": 14,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 21,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": 1,
+      "y": 22,
       "z": 0,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 6
@@ -3336,6 +6661,20 @@
     },
     {
       "x": 1,
+      "y": 21,
+      "z": 2,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 22,
+      "z": 2,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": 1,
       "y": 9,
       "z": 3,
       "name": "Wood_Drywood_Planks"
@@ -3372,6 +6711,12 @@
     },
     {
       "x": 1,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 1,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -3381,6 +6726,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 2,
@@ -3502,6 +6853,20 @@
     },
     {
       "x": 2,
+      "y": 21,
+      "z": 1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": 2,
+      "y": 22,
+      "z": 1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": 2,
       "y": 9,
       "z": 2,
       "name": "Wood_Drywood_Planks"
@@ -3544,6 +6909,12 @@
     },
     {
       "x": 2,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 2,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -3553,6 +6924,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 3,
@@ -3660,6 +7037,12 @@
     },
     {
       "x": 3,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 3,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -3672,6 +7055,12 @@
     },
     {
       "x": 4,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 4,
       "y": 9,
       "z": -7,
       "name": "Wood_Drywood_Decorative"
@@ -3776,6 +7165,12 @@
     },
     {
       "x": 4,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 4,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -3788,6 +7183,12 @@
     },
     {
       "x": 5,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 5,
       "y": 9,
       "z": -7,
       "name": "Wood_Drywood_Decorative"
@@ -3892,6 +7293,12 @@
     },
     {
       "x": 5,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 5,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -3901,6 +7308,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 6,
@@ -4008,6 +7421,12 @@
     },
     {
       "x": 6,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 6,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -4017,6 +7436,12 @@
       "y": 10,
       "z": 9,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "z": -7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 7,
@@ -4137,6 +7562,12 @@
     },
     {
       "x": 7,
+      "y": 8,
+      "z": 9,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 7,
       "y": 9,
       "z": 9,
       "name": "Wood_Drywood_Decorative"
@@ -4150,6 +7581,12 @@
     },
     {
       "x": 8,
+      "y": 8,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 8,
       "y": 9,
       "z": -6,
       "name": "Wood_Drywood_Decorative"
@@ -4242,6 +7679,12 @@
     },
     {
       "x": 8,
+      "y": 8,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 8,
       "y": 9,
       "z": 8,
       "name": "Wood_Drywood_Decorative"
@@ -4251,6 +7694,12 @@
       "y": 10,
       "z": 8,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 9,
@@ -4346,6 +7795,12 @@
     },
     {
       "x": 9,
+      "y": 8,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 9,
       "y": 9,
       "z": 8,
       "name": "Wood_Drywood_Decorative"
@@ -4355,6 +7810,12 @@
       "y": 10,
       "z": 8,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 10,
@@ -4511,6 +7972,12 @@
     },
     {
       "x": 10,
+      "y": 8,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 10,
       "y": 9,
       "z": 8,
       "name": "Wood_Drywood_Decorative"
@@ -4520,6 +7987,12 @@
       "y": 10,
       "z": 8,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 11,
@@ -4718,6 +8191,12 @@
     },
     {
       "x": 11,
+      "y": 8,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 11,
       "y": 9,
       "z": 8,
       "name": "Wood_Drywood_Decorative"
@@ -4727,6 +8206,12 @@
       "y": 10,
       "z": 8,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "z": -6,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 12,
@@ -4980,6 +8465,12 @@
     },
     {
       "x": 12,
+      "y": 8,
+      "z": 8,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 12,
       "y": 9,
       "z": 8,
       "name": "Wood_Drywood_Decorative"
@@ -4990,6 +8481,12 @@
       "z": 8,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 3
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 13,
@@ -5312,6 +8809,12 @@
     },
     {
       "x": 13,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 13,
       "y": 9,
       "z": 7,
       "name": "Wood_Drywood_Decorative"
@@ -5321,6 +8824,12 @@
       "y": 10,
       "z": 7,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 14,
@@ -5534,6 +9043,12 @@
     },
     {
       "x": 14,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 14,
       "y": 9,
       "z": 7,
       "name": "Wood_Drywood_Decorative"
@@ -5543,6 +9058,12 @@
       "y": 10,
       "z": 7,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 15,
@@ -5612,14 +9133,6 @@
     },
     {
       "x": 15,
-      "y": 18,
-      "z": -3,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
-      "rotation": 4
-    },
-    {
-      "x": 15,
       "y": 9,
       "z": -2,
       "name": "Wood_Drywood_Planks"
@@ -5635,14 +9148,6 @@
       "y": 13,
       "z": -2,
       "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 15,
-      "y": 18,
-      "z": -2,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
-      "rotation": 4
     },
     {
       "x": 15,
@@ -5664,21 +9169,6 @@
     },
     {
       "x": 15,
-      "y": 17,
-      "z": -1,
-      "name": "Cloth_Roof_Hide_Flap",
-      "rotation": 3
-    },
-    {
-      "x": 15,
-      "y": 18,
-      "z": -1,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
-      "rotation": 4
-    },
-    {
-      "x": 15,
       "y": 9,
       "z": 0,
       "name": "Wood_Drywood_Planks"
@@ -5688,13 +9178,6 @@
       "y": 13,
       "z": 0,
       "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 15,
-      "y": 18,
-      "z": 0,
-      "name": "Wood_Dry_Trunk_Half",
-      "rotation": 4
     },
     {
       "x": 15,
@@ -5812,6 +9295,12 @@
     },
     {
       "x": 15,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 15,
       "y": 9,
       "z": 7,
       "name": "Wood_Drywood_Decorative"
@@ -5821,6 +9310,12 @@
       "y": 10,
       "z": 7,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "z": -5,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 16,
@@ -5892,6 +9387,13 @@
     },
     {
       "x": 16,
+      "y": 20,
+      "z": -3,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": 16,
       "y": 9,
       "z": -2,
       "name": "Wood_Drywood_Planks"
@@ -5916,6 +9418,21 @@
     },
     {
       "x": 16,
+      "y": 19,
+      "z": -2,
+      "name": "Cloth_Roof_Hide_Flap",
+      "rotation": 1
+    },
+    {
+      "x": 16,
+      "y": 20,
+      "z": -2,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 16,
       "y": 9,
       "z": -1,
       "name": "Wood_Drywood_Planks"
@@ -5936,8 +9453,16 @@
       "x": 16,
       "y": 19,
       "z": -1,
-      "name": "Wood_Dry_Trunk_Half",
-      "rotation": 6
+      "name": "Cloth_Roof_Hide_Flap",
+      "rotation": 3
+    },
+    {
+      "x": 16,
+      "y": 20,
+      "z": -1,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
     },
     {
       "x": 16,
@@ -5953,17 +9478,9 @@
     },
     {
       "x": 16,
-      "y": 18,
+      "y": 20,
       "z": 0,
-      "name": "Cloth_Roof_Hide_Flap",
-      "rotation": 1
-    },
-    {
-      "x": 16,
-      "y": 19,
-      "z": 0,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
+      "name": "Wood_Dry_Trunk_Half",
       "rotation": 4
     },
     {
@@ -5981,18 +9498,10 @@
     },
     {
       "x": 16,
-      "y": 18,
+      "y": 14,
       "z": 1,
-      "name": "Cloth_Roof_Hide_Flap",
-      "rotation": 1
-    },
-    {
-      "x": 16,
-      "y": 19,
-      "z": 1,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
-      "rotation": 4
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 7
     },
     {
       "x": 16,
@@ -6005,14 +9514,6 @@
       "y": 13,
       "z": 2,
       "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 16,
-      "y": 19,
-      "z": 2,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
-      "rotation": 4
     },
     {
       "x": 16,
@@ -6031,13 +9532,6 @@
       "y": 13,
       "z": 3,
       "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 16,
-      "y": 19,
-      "z": 3,
-      "name": "Wood_Dry_Trunk_Half",
-      "rotation": 4
     },
     {
       "x": 16,
@@ -6118,6 +9612,12 @@
       "z": 6,
       "name": "*Wood_Drywood_Fence_State_Definitions_Corner",
       "rotation": 1
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "z": 7,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 16,
@@ -6134,6 +9634,12 @@
     },
     {
       "x": 17,
+      "y": 8,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
       "y": 9,
       "z": -4,
       "name": "Wood_Drywood_Decorative"
@@ -6238,6 +9744,13 @@
     },
     {
       "x": 17,
+      "y": 20,
+      "z": -1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": 17,
       "y": 9,
       "z": 0,
       "name": "Wood_Drywood_Planks"
@@ -6250,10 +9763,32 @@
     },
     {
       "x": 17,
+      "y": 14,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 6
+    },
+    {
+      "x": 17,
       "y": 16,
       "z": 0,
       "name": "Furniture_Desert_Sign",
       "rotation": 1
+    },
+    {
+      "x": 17,
+      "y": 19,
+      "z": 0,
+      "name": "Cloth_Roof_Hide_Flap",
+      "rotation": 1
+    },
+    {
+      "x": 17,
+      "y": 20,
+      "z": 0,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
     },
     {
       "x": 17,
@@ -6337,7 +9872,8 @@
       "y": 20,
       "z": 1,
       "name": "Wood_Dry_Trunk",
-      "support": 15
+      "support": 15,
+      "rotation": 4
     },
     {
       "x": 17,
@@ -6373,6 +9909,13 @@
     },
     {
       "x": 17,
+      "y": 14,
+      "z": 2,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": 17,
       "y": 16,
       "z": 2,
       "name": "Furniture_Desert_Sign",
@@ -6382,367 +9925,413 @@
       "x": 17,
       "y": 20,
       "z": 2,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 12,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 13,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 14,
+      "z": 3,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 17,
+      "y": 20,
+      "z": 3,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 12,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 13,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 14,
+      "z": 4,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 11,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 12,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 13,
+      "z": 5,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": 17,
+      "y": 14,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 15,
+      "z": 5,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 2
+    },
+    {
+      "x": 17,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 17,
+      "y": 9,
+      "z": 6,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": 17,
+      "y": 10,
+      "z": 6,
+      "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 18,
+      "y": 8,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": -4,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "z": -4,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 2
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "z": -3,
+      "name": "Wood_Drywood_Decorative"
+    },
+    {
+      "x": 18,
+      "y": 14,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 15,
+      "z": -3,
+      "name": "Wood_Drywood_Fence",
+      "rotation": 2
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "z": -2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 14,
+      "z": -2,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 14,
+      "z": -1,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": 1,
+      "name": "Wood_Drywood_Planks",
+      "support": 15
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 14,
+      "z": 1,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 5
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 18,
+      "y": 20,
+      "z": 2,
       "name": "Wood_Dry_Trunk_Half",
       "rotation": 6
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 9,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 12,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 13,
       "z": 3,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 14,
       "z": 3,
       "name": "Wood_Drywood_Planks_Half"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 20,
       "z": 3,
-      "name": "Wood_Dry_Trunk_Full",
+      "name": "Wood_Dry_Trunk",
       "support": 15,
       "rotation": 4
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 9,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 12,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 13,
       "z": 4,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 14,
       "z": 4,
       "name": "Wood_Drywood_Planks_Half"
     },
     {
-      "x": 17,
+      "x": 18,
+      "y": 19,
+      "z": 4,
+      "name": "Cloth_Roof_Hide_Flap",
+      "rotation": 1
+    },
+    {
+      "x": 18,
       "y": 20,
       "z": 4,
-      "name": "Wood_Dry_Trunk_Full",
+      "name": "Wood_Dry_Trunk",
       "support": 15,
       "rotation": 4
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 9,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 10,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 11,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 12,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 13,
       "z": 5,
       "name": "Wood_Drywood_Decorative"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 14,
       "z": 5,
       "name": "Wood_Drywood_Planks"
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 15,
       "z": 5,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
     },
     {
-      "x": 17,
+      "x": 18,
       "y": 20,
       "z": 5,
-      "name": "Wood_Dry_Trunk_Full",
-      "support": 15,
+      "name": "Wood_Dry_Trunk_Half",
       "rotation": 4
     },
     {
-      "x": 17,
-      "y": 9,
+      "x": 18,
+      "y": 8,
       "z": 6,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": 17,
-      "y": 10,
-      "z": 6,
-      "name": "Wood_Drywood_Fence"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": -4,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": 18,
-      "y": 10,
-      "z": -4,
-      "name": "Wood_Drywood_Fence",
-      "rotation": 2
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": -3,
       "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 10,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 11,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": -3,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": 18,
-      "y": 14,
-      "z": -3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 15,
-      "z": -3,
-      "name": "Wood_Drywood_Fence",
-      "rotation": 2
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": -2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "z": -2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": -2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 14,
-      "z": -2,
-      "name": "Wood_Drywood_Planks_Half"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": -1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "z": -1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": -1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 14,
-      "z": -1,
-      "name": "Wood_Drywood_Planks_Half"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": 0,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": 0,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": 1,
-      "name": "Wood_Drywood_Planks",
-      "support": 15
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": 1,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": 2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": 2,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": 3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "z": 3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": 3,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 14,
-      "z": 3,
-      "name": "Wood_Drywood_Planks_Half"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": 4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "z": 4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": 4,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 14,
-      "z": 4,
-      "name": "Wood_Drywood_Planks_Half"
-    },
-    {
-      "x": 18,
-      "y": 9,
-      "z": 5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 10,
-      "z": 5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 11,
-      "z": 5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "z": 5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "z": 5,
-      "name": "Wood_Drywood_Decorative"
-    },
-    {
-      "x": 18,
-      "y": 14,
-      "z": 5,
-      "name": "Wood_Drywood_Planks"
-    },
-    {
-      "x": 18,
-      "y": 15,
-      "z": 5,
-      "name": "Wood_Drywood_Fence",
-      "rotation": 2
     },
     {
       "x": 18,
@@ -6755,6 +10344,12 @@
       "y": 10,
       "z": 6,
       "name": "Wood_Drywood_Fence"
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 19,
@@ -6975,6 +10570,12 @@
       "z": 5,
       "name": "Wood_Drywood_Fence",
       "rotation": 2
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 19,
@@ -6994,6 +10595,12 @@
       "z": -5,
       "name": "Furniture_Desert_Sign",
       "rotation": 3
+    },
+    {
+      "x": 20,
+      "y": 8,
+      "z": -4,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 20,
@@ -7409,6 +11016,12 @@
     },
     {
       "x": 20,
+      "y": 8,
+      "z": 6,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 20,
       "y": 9,
       "z": 6,
       "name": "Wood_Drywood_Decorative"
@@ -7435,6 +11048,12 @@
     },
     {
       "x": 21,
+      "y": 8,
+      "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 21,
       "y": 9,
       "z": -3,
       "name": "Wood_Drywood_Decorative"
@@ -7443,6 +11062,12 @@
       "x": 21,
       "y": 10,
       "z": -3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "z": -2,
       "name": "Wood_Drywood_Planks"
     },
     {
@@ -7460,6 +11085,12 @@
     },
     {
       "x": 21,
+      "y": 8,
+      "z": -1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 21,
       "y": 9,
       "z": -1,
       "name": "Wood_Drywood_Decorative"
@@ -7470,6 +11101,12 @@
       "z": -1,
       "name": "Wood_Drywood_Fence",
       "rotation": 1
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "z": 0,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 21,
@@ -7486,6 +11123,12 @@
     },
     {
       "x": 21,
+      "y": 8,
+      "z": 1,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 21,
       "y": 9,
       "z": 1,
       "name": "Wood_Drywood_Decorative"
@@ -7496,6 +11139,12 @@
       "z": 1,
       "name": "Wood_Drywood_Fence",
       "rotation": 1
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "z": 2,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 21,
@@ -7512,6 +11161,12 @@
     },
     {
       "x": 21,
+      "y": 8,
+      "z": 3,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 21,
       "y": 9,
       "z": 3,
       "name": "Wood_Drywood_Decorative"
@@ -7525,6 +11180,12 @@
     },
     {
       "x": 21,
+      "y": 8,
+      "z": 4,
+      "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 21,
       "y": 9,
       "z": 4,
       "name": "Wood_Drywood_Decorative"
@@ -7535,6 +11196,12 @@
       "z": 4,
       "name": "Wood_Drywood_Fence",
       "rotation": 1
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "z": 5,
+      "name": "Wood_Drywood_Planks"
     },
     {
       "x": 21,
