@@ -1,0 +1,218 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 7
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Trash",
+      "rotation": 1
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Trash",
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Wood_Dry_Trunk_Stairs"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Wood_Dry_Trunk_Half"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Deco_Trash"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -1,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Dry_Trunk_Half"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Trash",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Deco_Trash",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Wood_Drywood_Planks_Half"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "Wood_Dry_Trunk",
+      "support": 15,
+      "rotation": 4
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Trash",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "Wood_Dry_Trunk_Stairs",
+      "rotation": 2
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "Wood_Dry_Trunk_Half",
+      "rotation": 4
+    }
+  ]
+}
