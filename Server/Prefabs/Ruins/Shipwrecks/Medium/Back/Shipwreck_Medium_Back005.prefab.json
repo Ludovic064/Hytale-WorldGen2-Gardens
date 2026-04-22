@@ -2,7 +2,7 @@
   "version": 8,
   "blockIdVersion": 11,
   "anchorX": -9,
-  "anchorY": 4,
+  "anchorY": 1,
   "anchorZ": 0,
   "blocks": [
     {
@@ -6319,6 +6319,13 @@
       "y": 1,
       "z": 1,
       "name": "Wood_Drywood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 2
     },
     {
       "x": 4,

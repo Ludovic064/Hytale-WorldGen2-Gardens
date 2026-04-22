@@ -2,7 +2,7 @@
   "version": 8,
   "blockIdVersion": 11,
   "anchorX": -9,
-  "anchorY": 4,
+  "anchorY": 1,
   "anchorZ": 0,
   "blocks": [
     {
@@ -5782,6 +5782,13 @@
       "z": 2,
       "name": "Wood_Drywood_Stairs",
       "rotation": 8
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "Deco_Treasure_Pile_Small",
+      "rotation": 3
     },
     {
       "x": 4,
