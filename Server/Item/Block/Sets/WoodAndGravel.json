@@ -1,0 +1,6 @@
+{
+  "IncludeBlockTypes": [
+    "Wood*",
+    "Soil_Gravel*"
+  ]
+}

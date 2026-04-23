@@ -1,0 +1,60 @@
+{
+  "Environments": [
+    "Sea_Of_Sand"
+  ],
+  "NPCs": [
+    {
+      "Weight": 25,
+      "SpawnBlockSet": "Sand",
+      "Id": "Lizard_Sand",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Sand",
+      "Id": "Spark_Living",
+      "Flock": "Group_Large"
+    },
+    {
+      "Id": "Pig_Wild",
+      "Weight": 10,
+      "SpawnBlockSet": "DriedCorals",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Sand",
+      "Id": "Scorpion",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "DriedCorals",
+      "Id": "Spider_Cave",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "DriedCorals",
+      "Id": "Larva_Silk",
+      "Flock": "Group_Large"
+    },
+    {
+      "Id": "Skeleton_Pirate_Striker",
+      "Flock": "Group_Large",
+      "Weight": 7,
+      "SpawnBlockSet": "WoodAndGravel"
+    },
+    {
+      "Id": "Skeleton_Pirate_Gunner",
+      "Weight": 5,
+      "Flock": "Group_Medium",
+      "SpawnBlockSet": "WoodAndGravel"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ],
+  "ScaleDayTimeRange": true
+}

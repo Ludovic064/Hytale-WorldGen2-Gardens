@@ -1,0 +1,45 @@
+{
+  "Environments": [
+    "Sea_Of_Sand"
+  ],
+  "MinDistanceFromPlayer": 30,
+  "MaxSpawnedNPCs": 15,
+  "ConcurrentSpawnsRange": [
+    2,
+    4
+  ],
+  "SpawnAfterGameTimeRange": [
+    "PT25M",
+    "PT45M"
+  ],
+  "NPCIdleDespawnTime": 15,
+  "BeaconVacantDespawnGameTime": "PT15M",
+  "BeaconRadius": 70,
+  "SpawnRadius": 50,
+  "TargetDistanceFromPlayer": 50,
+  "NPCs": [
+    {
+      "Weight": 25,
+      "Id": "Skeleton_Pirate_Gunner",
+      "Flock": "Group_Small",
+      "SpawnBlockSet": "Sand"
+    },
+    {
+      "Id": "Skeleton_Pirate_Striker",
+      "Weight": 35,
+      "SpawnBlockSet": "Sand",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Id": "Skeleton_Pirate_Captain",
+      "Weight": 5,
+      "SpawnBlockSet": "Sand",
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "DayTimeRange": [
+    19,
+    6
+  ],
+  "ScaleDayTimeRange": true
+}
