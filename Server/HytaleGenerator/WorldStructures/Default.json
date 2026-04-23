@@ -4,6 +4,11 @@
     {
       "Biome": "Sea_Of_Sand",
       "Min": -1,
+      "Max": 0
+    },
+    {
+      "Biome": "Lush_Canyon",
+      "Min": 0,
       "Max": 1
     }
   ],
