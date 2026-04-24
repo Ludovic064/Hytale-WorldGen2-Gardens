@@ -13,8 +13,8 @@
     }
   ],
   "DefaultBiome": "Sea_Of_Sand",
-  "DefaultTransitionDistance": 32,
-  "MaxBiomeEdgeDistance": 32,
+  "DefaultTransitionDistance": 96,
+  "MaxBiomeEdgeDistance": 96,
   "Density": {
     "Type": "Imported",
     "Name": "Biome-Map"
