@@ -17,7 +17,7 @@
     ]
   },
   "AmbientBed": {
-    "Track": "Sounds/Environments/Zone2/Environments/Desert/Day/Oasis/Z2_Desert_Day_Stereo_LOOP.ogg",
-    "Volume": -4.0
+    "Track": "Sounds/Environments/Zone2/Global/Wind/Z2_Wind_Base_Mid_Stereo_LOOP.ogg",
+    "Volume": 4
   }
 }
