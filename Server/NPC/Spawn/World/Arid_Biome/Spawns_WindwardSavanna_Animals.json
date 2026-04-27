@@ -1,0 +1,27 @@
+{
+  "Environments": [
+    "Windward_Savanna"
+  ],
+  "NPCs": [
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Grass",
+      "Id": "Antelope",
+      "Flock": "Group_Medium"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Tortoise"
+    },
+    {
+      "Id": "Tiger_Sabertooth",
+      "Weight": 5,
+      "SpawnBlockSet": "Grass"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

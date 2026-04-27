@@ -4,16 +4,20 @@
     {
       "Biome": "Sea_Of_Sand",
       "Min": -1,
-      "Max": -0.35
+      "Max": -0.25
+    },    {
+      "Biome": "Windward_Savanna",
+      "Min": -0.25,
+      "Max": 0
     },
     {
       "Biome": "Windward_Savanna",
-      "Min": -0.35,
-      "Max": 0.3
+      "Min": 0,
+      "Max": 0.1
     },
     {
       "Biome": "Lush_Canyon",
-      "Min": 0.3,
+      "Min": 0.1,
       "Max": 1
     }
   ],
