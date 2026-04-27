@@ -439,5 +439,6 @@
         "Weight": 30
       }
     ]
-  }
+  },
+  "BlockModificationAllowed": true
 }

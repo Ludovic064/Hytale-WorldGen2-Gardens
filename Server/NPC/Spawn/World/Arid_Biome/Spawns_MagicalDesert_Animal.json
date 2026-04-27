@@ -19,7 +19,13 @@
       "Id": "Pig_Wild",
       "Weight": 10,
       "SpawnBlockSet": "DriedCorals",
-      "Flock": "Parent_And_Young_75_25"
+      "Flock": "Group_Medium"
+    },
+    {
+      "Id": "Mouse",
+      "Weight": 10,
+      "SpawnBlockSet": "DriedCorals",
+      "Flock": "Group_Small"
     },
     {
       "Weight": 5,
